@@ -38,7 +38,7 @@ Yes.
 
 ## Credits
 
--   Idea : [RealPanda](https://www.reddit.com/user/RealPonda/)
+-   Idea : [RealPonda](https://www.reddit.com/user/RealPonda/)
 -   Among Us Protocol : https://github.com/codyphobe/among-us-protocol
 
 #### Code snippets :
