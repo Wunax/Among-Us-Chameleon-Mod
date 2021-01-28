@@ -6,7 +6,7 @@ Chameleon Mod is a mod for Among Us that adds a new role in Among Us, the chamel
 
 ## Installation
 
-1. Download the latest build of BepInEx Unity IL2CPP for Windows \***\*x86\*\*** machines available [here](https://builds.bepis.io/projects/bepinex_be).
+1. Download the latest build of BepInEx Unity IL2CPP for Windows **x86** machines available [here](https://builds.bepis.io/projects/bepinex_be).
 2. Download the latest version of the mod available [here](https://github.com/Wunax/Among-Us-Chameleon-Mod/releases/latest).
 3. **Optionnal**: Create a backup of your Among Us game folder (`Steam\steamapps\common\Among Us`). This backup is only useful if there is a problem in the steam installation directory of Among us, **do not** put the mod in this folder.
 4. Extract the content of the BepInEx Unity IL2CPP archive to your Among Us game folder (where your `Among Us.exe` is located).
